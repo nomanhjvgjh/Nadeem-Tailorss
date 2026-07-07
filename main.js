@@ -7,7 +7,7 @@
 const CONFIG = {
   // 👉 Phone number in international format, digits only (no +, no spaces).
   //    Example for India: 91 + 10-digit number  ->  "919876543210"
-  phone: "8285843898",
+  phone: "+91 8285843898",
 
   // Human-readable phone shown on the site
   phoneDisplay: "+91 8285843898",
